@@ -9,7 +9,7 @@ public class Education {
 
     Education(){
         school = new ArrayList<>();
-        Collections.addAll(school, "Montgomery College","Maritime College","Star Center","Maritime  Profetional Training","College of Nautical Studies","Preston Institute","KU","DJ Science","Green Field","Gulistan");
+        Collections.addAll(school, "Montgomery College","SUNY Maritime College","Star Center","Maritime  Profetional Training","College of Nautical Studies","Preston Institute","K University","DJ Science","Green Field","Happy Home");
     }
 
     @Override
